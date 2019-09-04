@@ -1,0 +1,5 @@
+﻿  sequence1.cpp
+c:\users\ethan nguyen\onedrive\documents\school\data structures\labs\lab4\lab4\lab4\sequence1.cpp(54): warning C4018: '>': signed/unsigned mismatch
+c:\users\ethan nguyen\onedrive\documents\school\data structures\labs\lab4\lab4\lab4\sequence1.cpp(72): warning C4018: '>': signed/unsigned mismatch
+c:\users\ethan nguyen\onedrive\documents\school\data structures\labs\lab4\lab4\lab4\sequence1.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  Lab4.vcxproj -> C:\Users\Ethan Nguyen\OneDrive\Documents\School\Data Structures\Labs\Lab4\Lab4\Debug\Lab4.exe
